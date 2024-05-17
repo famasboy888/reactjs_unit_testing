@@ -1,6 +1,6 @@
 # Testing React Apps
 
-This is the starter project for my Reacting testing course where you'll learn everything you need to know to effectively test React apps. You can find the full course at: 
+This is the starter project for my Reacting testing. All Test files are stored here [Link](https://github.com/famasboy888/reactjs_unit_testing/tree/main/tests)
 
 ## About this Project 
 
